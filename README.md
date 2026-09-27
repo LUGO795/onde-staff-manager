@@ -9,6 +9,10 @@
 ![Accessibilité](https://img.shields.io/badge/accessibilit%C3%A9-contraste%20%C3%A9lev%C3%A9%20%C2%B7%20clavier-86b6d4)
 
 ---
+<img width="3200" height="1800" alt="apercu-clair" src="https://github.com/user-attachments/assets/885bcdc9-e791-4ec3-81f5-b839ba0c549b" />
+<img width="3200" height="1800" alt="apercu" src="https://github.com/user-attachments/assets/91c40307-deb7-4371-ba29-bfe4b464466f" />
+
+
 
 ## Sommaire
 
